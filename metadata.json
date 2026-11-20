@@ -1,0 +1,6 @@
+{
+  "name": "Dakshakriti",
+  "description": "Dakshakriti Environmental Law OS — LL.B. Environmental Law Academy, Indian Legislation & Case-Law Research Centre, Private Incident & Evidence Vault, Complaint Drafting Studio, and AI Legal Research Assistant. Founded by Deepak Sharma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
